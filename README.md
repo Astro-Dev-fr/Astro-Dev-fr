@@ -64,6 +64,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=NdAstro">
 </a>
 <a href="https://github.com/NdAstro?tab=followers"><img src="https://img.shields.io/github/followers/NdAstro?label=Followers&style=social" alt="GitHub Badge"></a>
