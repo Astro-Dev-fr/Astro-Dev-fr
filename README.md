@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-a3j5ba%2F&psig=AOvVaw0cuIpCcRLKoW1_fWVA9Xie&ust=1641143906397000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDetdGHkfUCFQAAAAAdAAAAABAW" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://mpng.subpng.com/20180408/bwq/kisspng-computer-icons-programmer-computer-programming-sou-coder-5acaa8047f2893.8448013815232307245209.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Astro</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from France.</h3>
