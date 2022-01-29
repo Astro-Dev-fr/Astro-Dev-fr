@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/NdAstro/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NdAstro&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NdAstro/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Astro-Dev-fr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,6 +64,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NdAstro">
+    <img src="https://komarev.com/ghpvc/?username=Astro-Dev-fr">
 </a>
-<a href="https://github.com/NdAstro?tab=followers"><img src="https://img.shields.io/github/followers/NdAstro?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NdAstro?tab=followers"><img src="https://img.shields.io/github/followers/Astro-Dev-fr?label=Followers&style=social" alt="GitHub Badge"></a>
